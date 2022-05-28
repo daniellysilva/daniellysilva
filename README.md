@@ -2,7 +2,7 @@
 
 - 📌 Eu tenho 18 anos;
 - 📒 Sou estudante do Instituto PROA;
-- 🌱 Estou estudando HTML, CSS, Javascript e Python;
+- 🌱 Estou estudando HTML, CSS, Javascript, React Js, MySQL e Java;
 - 📫 Contate-me no email: daniellyas9@gmail.com
 - 😄 Pronomes: ela/dela;
 - 📡 Meu Linkedin: https://www.linkedin.com/in/daniellyalvessilva/
