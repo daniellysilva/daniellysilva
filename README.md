@@ -1,10 +1,9 @@
 ### Oii! Eu sou a Danielly 👋😊
 
-- 📌 Eu tenho 19 anos;
-- 📒 Sou estudante do Instituto PROA;
+- 📌 Eu tenho 20 anos;
+- 📒 Sou estudante de Tecnologia da Informação;
 - 🌱 Estou estudando HTML, CSS, Javascript, React Js, MySQL e Java;
 - 📫 Contate-me no email: daniellyas9@gmail.com
-- 😄 Pronomes: ela/dela;
 - 📡 Meu Linkedin: https://www.linkedin.com/in/daniellyalvessilva/
 
 <div>
