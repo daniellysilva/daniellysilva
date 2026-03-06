@@ -1,6 +1,5 @@
 ### Oii! Eu sou a Danielly 👋😊
 
-- 📌 Eu tenho 20 anos;
 - 📫 Contate-me no email: daniellyas9@gmail.com
 - 📡 Meu Linkedin: https://www.linkedin.com/in/daniellyalvessilva/
 
